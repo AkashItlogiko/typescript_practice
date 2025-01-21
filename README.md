@@ -1,5 +1,3 @@
-# first-program
+# built in data type
 
-[first-program](https://www.youtube.com/watch?v=WfvfbFZO8js&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=3)
-
-for run:`tsc index.ts --watch` then: `node index.js`
+[built in data type](https://www.youtube.com/watch?v=A3wbKN6alvg&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=4)
