@@ -1,3 +1,5 @@
-# Install process
+# first-program
 
-[Environment setup](https://www.youtube.com/watch?v=1Ox8MUW7X-s&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=2)
+[first-program](https://www.youtube.com/watch?v=WfvfbFZO8js&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=3)
+
+for run:`tsc index.ts --watch`
