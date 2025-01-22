@@ -1,3 +1,3 @@
-# How to create custom data type
+# class and object
 
-[ How to create custom data type](https://www.youtube.com/watch?v=FtmNSHvNkeM&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=11)
+[ class and object](https://www.youtube.com/watch?v=p9IXBR6fzWw&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=12)
