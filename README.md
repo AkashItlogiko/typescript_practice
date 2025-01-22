@@ -1,3 +1,3 @@
-# Object Data Type
+# How to create custom data type
 
-[ Object Data Type](https://www.youtube.com/watch?v=IMbVGliJ0_s&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=10)
+[ How to create custom data type](https://www.youtube.com/watch?v=FtmNSHvNkeM&list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq&index=11)
